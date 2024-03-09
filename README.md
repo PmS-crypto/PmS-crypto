@@ -1,4 +1,4 @@
-## Hello, my name is Poorva Shukla
+## Hello, I am Poorva Shukla
 I am a frontend developer with previous experience in Copywriting, User Research, UX Design, and Augmented Reality Development. ✊
 <br/>
 
