@@ -2,9 +2,9 @@
 #### I am a ``` front-end developer ``` with previous experience in copywriting, user research, ux design, and augmented reality development. ✊
 <br/>
 
-## Current Tech Stack & Tools
+### Current Tech Stack & Tools
 
-### Dev tools
+#### Dev tools
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,12 +18,12 @@
   <img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7' />
 </div>
   
-### Design tool
+#### Design tool
 <div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### Product Management tool
+#### Product Management tool
 <div>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
