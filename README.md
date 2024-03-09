@@ -1,5 +1,5 @@
 ## Hello, my name is Poorva Shukla
-I am a frontend developer with previous experience in Copywriting, User Research, UX Design, and Augmented Reality Development.
+I am a frontend developer with previous experience in Copywriting, User Research, UX Design, and Augmented Reality Development. ✊
 <br/>
 
 ## Tech Stack & Tools
