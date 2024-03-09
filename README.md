@@ -1,8 +1,8 @@
-## Hello, I am Poorva Shukla
-I am a frontend developer with previous experience in Copywriting, User Research, UX Design, and Augmented Reality Development. ✊
+### Hello, my name is Poorva Shukla
+#### I am a ``` front-end developer ``` with previous experience in copywriting, user research, ux design, and augmented reality development. ✊
 <br/>
 
-## Tech Stack & Tools
+## Current Tech Stack & Tools
 
 ### Dev tools
 <div>
@@ -10,7 +10,8 @@ I am a frontend developer with previous experience in Copywriting, User Research
   <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-800080?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' />
    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src='https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white' />
