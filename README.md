@@ -1,5 +1,6 @@
 ### Hello, my name is Poorva Shukla
 #### I am a ``` front-end developer ``` with previous experience in copywriting, user research, ux design, and augmented reality development. ✊
+#### I love to code for the web. I prioritize on writing responsive, performant, and accessible code. I love to see ideas turn to solutions through code.
 <br/>
 
 ### Current Tech Stack & Tools
