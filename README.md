@@ -1,5 +1,5 @@
 ### Hello, my name is Poorva Shukla
-#### I am a ``` front-end developer ``` with previous experience in copywriting, user research, ux design, and augmented reality development.
+#### I am a ``` UX Designer ``` and ``` Frontend Developer ``` with previous experience in copywriting, user research, ux design, and augmented reality development.
 #### I love to code for the web. I prioritize writing responsive, performant, and accessible code. I love to see ideas turn into solutions through code.
 <br/>
 
